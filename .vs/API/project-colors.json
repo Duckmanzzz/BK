@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a279fedd-d973-46fc-9c2a-2d0930fa2965": {
+      "ProjectGuid": "a279fedd-d973-46fc-9c2a-2d0930fa2965",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 0
+    },
+    "5c4f7a67-9979-4437-a26b-c3bf594ccbfd": {
+      "ProjectGuid": "5c4f7a67-9979-4437-a26b-c3bf594ccbfd",
+      "DisplayName": "DLL",
+      "ColorIndex": 1
+    },
+    "6f1c61fc-362e-4c87-8c8f-06d18a1df4c2": {
+      "ProjectGuid": "6f1c61fc-362e-4c87-8c8f-06d18a1df4c2",
+      "DisplayName": "Services",
+      "ColorIndex": 2
+    },
+    "05950511-a2d5-4640-9f06-2f8708665b8a": {
+      "ProjectGuid": "05950511-a2d5-4640-9f06-2f8708665b8a",
+      "DisplayName": "ClassLibrary3",
+      "ColorIndex": 3
+    },
+    "61f4045b-0ed1-4e82-a21b-fe2bc7bb2c87": {
+      "ProjectGuid": "61f4045b-0ed1-4e82-a21b-fe2bc7bb2c87",
+      "DisplayName": "ClassLibrary2",
+      "ColorIndex": 4
+    },
+    "3b6e3d85-b3a9-46ae-ae2d-0e69ef944896": {
+      "ProjectGuid": "3b6e3d85-b3a9-46ae-ae2d-0e69ef944896",
+      "DisplayName": "API",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

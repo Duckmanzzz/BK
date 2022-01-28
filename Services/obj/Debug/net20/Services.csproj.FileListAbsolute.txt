@@ -1,0 +1,7 @@
+D:\Project Core\API\Services\bin\Debug\net20\Services.dll
+D:\Project Core\API\Services\bin\Debug\net20\Services.pdb
+D:\Project Core\API\Services\obj\Debug\net20\Services.AssemblyInfoInputs.cache
+D:\Project Core\API\Services\obj\Debug\net20\Services.AssemblyInfo.cs
+D:\Project Core\API\Services\obj\Debug\net20\Services.csproj.CoreCompileInputs.cache
+D:\Project Core\API\Services\obj\Debug\net20\Services.dll
+D:\Project Core\API\Services\obj\Debug\net20\Services.pdb

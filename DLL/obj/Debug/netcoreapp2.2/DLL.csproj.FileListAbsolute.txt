@@ -1,0 +1,10 @@
+D:\Project Core\API\DLL\obj\Debug\netcoreapp2.2\DLL.csproj.AssemblyReference.cache
+D:\Project Core\API\DLL\obj\Debug\netcoreapp2.2\DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Core\API\DLL\obj\Debug\netcoreapp2.2\DLL.AssemblyInfoInputs.cache
+D:\Project Core\API\DLL\obj\Debug\netcoreapp2.2\DLL.AssemblyInfo.cs
+D:\Project Core\API\DLL\obj\Debug\netcoreapp2.2\DLL.csproj.CoreCompileInputs.cache
+D:\Project Core\API\DLL\bin\Debug\netcoreapp2.2\DLL.deps.json
+D:\Project Core\API\DLL\bin\Debug\netcoreapp2.2\DLL.dll
+D:\Project Core\API\DLL\bin\Debug\netcoreapp2.2\DLL.pdb
+D:\Project Core\API\DLL\obj\Debug\netcoreapp2.2\DLL.dll
+D:\Project Core\API\DLL\obj\Debug\netcoreapp2.2\DLL.pdb

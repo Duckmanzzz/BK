@@ -1,0 +1,4 @@
+D:\Project Core\API\DLL\obj\Debug\net20\DLL.AssemblyInfoInputs.cache
+D:\Project Core\API\DLL\obj\Debug\net20\DLL.AssemblyInfo.cs
+D:\Project Core\API\DLL\obj\Debug\net20\DLL.csproj.CoreCompileInputs.cache
+D:\Project Core\API\DLL\obj\Debug\net20\DLL.csprojAssemblyReference.cache
